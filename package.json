@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/d-mindlin/tech-blog/issues"
   },
-  "homepage": "https://github.com/d-mindlin/tech-blog#readme"
+  "homepage": "https://github.com/d-mindlin/tech-blog#readme",
+  "dependencies": {
+    "heroku": "^7.42.1"
+  }
 }
