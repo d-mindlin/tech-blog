@@ -31,6 +31,7 @@
     "heroku": "^7.42.1",
     "mysql2": "^2.1.0",
     "nodemon": "^2.0.4",
+    "promise": "^8.1.0",
     "sequelize": "^5.22.3"
   },
   "devDependencies": {
